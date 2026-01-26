@@ -1,0 +1,11 @@
+Todo el formateo de la aplicación se hará con CSS, no en html.
+
+DNS
+    Dado el nombre de un host, obtener su IP
+Protocolo HTTP
+    Métodos de petición
+        GET ---> Obtener datos
+            Solicita el recurso identificado por la URL
+            Es el mecanismo más habitual
+        POST ---> Modificar datos
+            Junto con la petición se envían datos al servidor Web
