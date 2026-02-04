@@ -1,0 +1,9 @@
+body {
+    font-family: monospace; 
+    background-color: #000000;
+    color: #00CC00;
+    font-size: 18px;
+}
+h1, h2, h3, p {
+    font-size: inherit;
+}

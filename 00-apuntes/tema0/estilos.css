@@ -1,0 +1,16 @@
+body {
+	background-color: #559955;
+	color: #ffffff;
+}
+
+p {
+	font-family: sans-serif;
+}
+
+h3 {
+	font-size: 54px; /* Hacemos la fuente del título pequeño super-grande */
+}
+
+em {
+	font-weight: bold; /* Ponemos en énfasis en negrita */
+}
